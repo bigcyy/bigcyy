@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Graduate Student | Chongqing University of Posts and Telecommunications<br>💻 Passionate about coding and life<br>😶‍🌫️ Sometimes introverted, sometimes outgoing<br>🎭 Sometimes pretentious, sometimes genuine<br>🚀 Growing every day—striving to achieve something meaningful, do what I love, and become who I aspire to be</p>
+<p align="left">🎓 Graduate Student | Chongqing University of Posts and Telecommunications<br>💻 Passionate about coding and life<br>😶‍🌫️ Sometimes introverted, sometimes outgoing<br>🚀 Growing every day—striving to achieve something meaningful, do what I love, and become who I aspire to be</p>
 
 ###
 
