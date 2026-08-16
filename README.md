@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Chen Yang, and I'm a student from China.</p>
+<p align="left">My name is Chen Yang</p>
 
 ###
 
